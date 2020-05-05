@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b9a91ca3-975c-4e4d-a61f-25355a8341df" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1a4jE6t1l3iA58euVjw2rzziAtR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="ignore.virus.scanning.warn.message" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\7777\IdeaProjects\Training\src\com\company" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Comment" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Comment" />
+      <module name="Training" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="Training" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Server" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Server" />
+      <module name="Training" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Server" />
+        <item itemvalue="Application.Comment" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b9a91ca3-975c-4e4d-a61f-25355a8341df" name="Default Changelist" comment="" />
+      <created>1586001645159</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586001645159</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="22" key="#Project_Structure" timestamp="1587957469693">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="22" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1587957469693" />
+    <state x="488" y="74" key="#com.intellij.ide.util.MemberChooser" timestamp="1587962232842">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="74" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1587962232842" />
+    <state x="534" y="253" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1586190216261">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="534" y="253" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.728@0.0.1366.728" timestamp="1586190216261" />
+    <state x="451" y="195" key="#com.intellij.tools.ToolEditorDialog" timestamp="1586190497117">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="451" y="195" key="#com.intellij.tools.ToolEditorDialog/0.0.1366.728@0.0.1366.728" timestamp="1586190497117" />
+    <state x="533" y="242" width="300" height="244" key="DBNavigator.ConnectionAuthenticationDialog" timestamp="1586188544830">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="533" y="242" width="300" height="244" key="DBNavigator.ConnectionAuthenticationDialog/0.0.1366.728@0.0.1366.728" timestamp="1586188544830" />
+    <state x="242" y="64" key="DBNavigator.ConnectionInfoDialog" timestamp="1586188029729">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="242" y="64" key="DBNavigator.ConnectionInfoDialog/0.0.1366.728@0.0.1366.728" timestamp="1586188029729" />
+    <state x="413" y="288" key="DBNavigator.CreateRenameSessionDialog" timestamp="1586188039744">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="288" key="DBNavigator.CreateRenameSessionDialog/0.0.1366.728@0.0.1366.728" timestamp="1586188039744" />
+    <state x="231" y="39" key="DBNavigator.ProjectSettingsDialog" timestamp="1586188981232">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="231" y="39" key="DBNavigator.ProjectSettingsDialog/0.0.1366.728@0.0.1366.728" timestamp="1586188981232" />
+    <state x="417" y="126" key="EnvironmentVariablesDialog" timestamp="1586190463005">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="417" y="126" key="EnvironmentVariablesDialog/0.0.1366.728@0.0.1366.728" timestamp="1586190463005" />
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1587957821093">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1587957821093" />
+    <state width="1323" height="171" key="GridCell.Tab.0.bottom" timestamp="1588579406236">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="171" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1588579406236" />
+    <state width="1323" height="171" key="GridCell.Tab.0.center" timestamp="1588579406235">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="171" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1588579406235" />
+    <state width="1323" height="171" key="GridCell.Tab.0.left" timestamp="1588579406235">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="171" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1588579406235" />
+    <state width="1323" height="171" key="GridCell.Tab.0.right" timestamp="1588579406236">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="171" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1588579406236" />
+    <state x="184" y="7" key="SettingsEditor" timestamp="1586515600580">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="7" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1586515600580" />
+    <state x="378" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1588579015244">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="378" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1588579015244" />
+    <state x="-52" y="0" key="new project wizard" timestamp="1586139090721">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="-52" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1586139090721" />
+  </component>
+</project>
